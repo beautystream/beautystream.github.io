@@ -43,6 +43,9 @@ Allow camera and microphone access in iOS Settings, then return to the app. The 
 **The effects do not show.**
 Make sure the Beauty switch is turned on and your face is in view. If the effects cannot start on your phone, the app shows a message and the broadcast continues without them.
 
+**Can I broadcast in landscape?**
+Yes. Tap the Landscape button on the right side before you go live. The screen turns to landscape and the broadcast is sent as a wide picture (1280x720), which fits YouTube, Twitch and desktop players. Tap Portrait to go back to a tall picture (720x1280). The choice is remembered, and it cannot be changed while you are live.
+
 **Can I mute my microphone?**
 Yes. Tap Mute. The stream continues with no sound.
 
